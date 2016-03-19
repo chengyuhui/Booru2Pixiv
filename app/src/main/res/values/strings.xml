@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Booru2Pixiv</string>
+    <string name="share_to">Open Pixiv Source</string>
+
+    <!-- Settings -->
+    <string name="pref_header_general">General</string>
+
+
+    <string name="pref_api_key">API Key</string>
+    <string name="pref_login_name">Login name (account name)</string>
+</resources>
