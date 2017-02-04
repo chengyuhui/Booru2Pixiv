@@ -4,8 +4,15 @@
 
     <!-- Settings -->
     <string name="pref_header_general">General</string>
-
-
     <string name="pref_api_key">API Key</string>
     <string name="pref_login_name">Login name (account name)</string>
+
+    <!-- Dialog -->
+    <!-- Link Labels -->
+    <string name="pixiv">Pixiv</string>
+    <string name="source">Source URL</string>
+    <string name="orig_uri">Original URL</string>
+    <!-- Messages -->
+    <string name="resolving">Resolving.....</string>
+    <string name="failed">Resolving Failed</string>
 </resources>
